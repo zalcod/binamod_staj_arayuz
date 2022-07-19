@@ -1,4 +1,4 @@
-# binamod_staj_arayuz
+# binamod_gonullu_staj_arayuz
 
 A new Flutter project.
 
